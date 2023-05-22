@@ -8,16 +8,16 @@ import axios from 'axios';
 import { format } from 'date-fns';
 
 import './style.css';
-import Sunny from '/src/images/sunny.json';
-import Cloudy from '/src/images/cloudy.json';
-import Mist from '/src/images/mist.json';
-import Rain from '/src/images/storm.json';
-import Snow from '/src/images/snow.json';
-import Drizzle from '/src/images/drizzle.json';
-import Weather from '/src/images/weather.json';
-import Night from '/src/images/night.json';
-import CloudyNight from '/src/images/cloudy_night.json';
-import RainyNight from '/src/images/rainy_night.json';
+import Sunny from '../images/sunny.json';
+import Cloudy from '../images/cloudy.json';
+import Mist from '../images/mist.json';
+import Rain from '../images/storm.json';
+import Snow from '../images/snow.json';
+import Drizzle from '../images/drizzle.json';
+import Weather from '../images/weather.json';
+import Night from '../images/night.json';
+import CloudyNight from '../images/cloudy_night.json';
+import RainyNight from '../images/rainy_night.json';
 
 import { BsInstagram } from 'react-icons/bs';
 import { FiGithub, FiLinkedin } from 'react-icons/Fi';
