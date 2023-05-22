@@ -5,3 +5,7 @@ Using:
 • https://Openweathermap.org APIs.   
 • 'cities.json' for search options.  
 • Chakra UI, modern component library.
+
+# preview
+![FireShot Capture 012 - WeatherApp - localhost](https://github.com/ItayLevy1/weather-app/assets/106584490/3b3363b0-811e-475c-aacb-0b0aabc46939)
+![FireShot Capture 011 - WeatherApp - localhost](https://github.com/ItayLevy1/weather-app/assets/106584490/8363f63a-ed03-46c1-b841-1e48490dc34c)
